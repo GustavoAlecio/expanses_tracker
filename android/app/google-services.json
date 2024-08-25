@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902542224006",
+    "project_id": "expensive-tracker-4b263",
+    "storage_bucket": "expensive-tracker-4b263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902542224006:android:5b719bb7df4e8f38eaff07",
+        "android_client_info": {
+          "package_name": "com.example.expanses_tracker1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYv8p316nZ31Icd-jqBmAA99JypqlBNDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
