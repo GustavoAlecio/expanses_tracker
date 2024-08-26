@@ -2,7 +2,7 @@ import 'package:flutter_modular/flutter_modular.dart';
 
 
 import 'home_module_paths.dart';
-import 'presentation/presentation.dart';
+import 'presentation/presentation.dart'; 
 
 class HomeModuleRouting extends Module {
   @override

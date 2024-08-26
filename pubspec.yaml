@@ -12,6 +12,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   flutter_modular: ^6.3.4
+  firebase_core: 2.32.0
 
 dev_dependencies:
   flutter_test:

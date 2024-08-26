@@ -1,0 +1,30 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "expensive-tracker-4b263",
+                    "appId": "1:902542224006:android:5b719bb7df4e8f38eaff07",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "ios": {
+                "default": {
+                    "projectId": "expensive-tracker-4b263",
+                    "appId": "1:902542224006:ios:cbfe09355db3237aeaff07",
+                    "uploadDebugSymbols": false,
+                    "fileOutput": "ios/Runner/GoogleService-Info.plist"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "expensive-tracker-4b263",
+                    "configurations": {
+                        "android": "1:902542224006:android:5b719bb7df4e8f38eaff07",
+                        "ios": "1:902542224006:ios:cbfe09355db3237aeaff07"
+                    }
+                }
+            }
+        }
+    }
+}
